@@ -1,0 +1,2 @@
+# Python-Options-Calculator
+An options calculator that allows for inputs of (S, X, t, r, o, option = 'call' or 'put') where S represents the current stock price, X represents the strike price, t represents the time until the option exercise, r represents the risk-free rate (or the T-Bill rate) and o represents the implied volatility . The output of this program will be the value of the option, the option delta and the option gamma.
